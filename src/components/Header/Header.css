@@ -6,6 +6,9 @@
   justify-content: space-between;
   padding-left: 140px;
   padding-right: 140px;
+  /* z-index: 1;
+  position: sticky;
+  top: 0px; */
 }
 .header  a {
   color: #ffffff;
